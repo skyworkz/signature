@@ -8,3 +8,5 @@ Usage:
 - Open the file in a browser
 - Copy the visual contents
 - Paste it in your favorite e-mail client
+
+Preview is available at https://skyworkz.github.io/signature/signature.html
